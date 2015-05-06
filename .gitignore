@@ -4,8 +4,8 @@
 .mtj.tmp/
 
 # Package Files #
-!/depjarlib/*.jar
 *.jar
+!/depjarlib/*.jar
 *.war
 *.ear
 
